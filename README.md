@@ -5,10 +5,10 @@
 The goal of this challenge was to create an interactive web application to explore the findings from the Belly Button biodiversity data. The Bellybutton Biodiversity Dashboard presents a collection of charts and visualizations. Users can select different subject IDs to see corresponding charts, including a bar chart, a bubble chart, and a washing frequency gauge chart.
 
 ## Table of Contents
-1. index.html: This contains the necessary metadata to initialize and run the interactivity portion of the dashboard
+1. ` index.html `: This contains the necessary metadata to initialize and run the interactivity portion of the dashboard
 2. static / js folder:
--> app.js: this file holds the code for the graphs, layout, as well as other elements in the dahsboard
-3. samples.json: this json file holds all of the Belly Button Biodiversity data
+-> ` app.js `: this file holds the code for the graphs, layout, as well as other elements in the dahsboard
+3. ` samples.json `: this json file holds all of the Belly Button Biodiversity data
 
 ## Dashboard Features
 - Bar chart displaying the top 10 Operational Taxonomic Units (OTUs) for the selected subject ID.
