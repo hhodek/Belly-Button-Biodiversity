@@ -16,22 +16,5 @@ The goal of this challenge was to create an interactive web application to explo
 - Gauge chart indicating the washing frequency of the selected subject ID.
 - Demographic information panel showing details about the selected subject ID.
 
-
-# Getting Started
-
-## Prerequisites
-- Web browser (recommended: Chrome, Firefox, Safari)
-- Internet connection
-
-## Installation
-1. Clone this repository to your local machine.
-2. Navigate to the project directory.
-
-## Usage
-1. Open the `index.html` file in your web browser.
-2. Use the dropdown menu to select a subject ID.
-3. Explore the interactive charts and visualizations that correspond to the selected subject ID.
-4. View demographic information associated with the selected subject ID.
-
 ## Credits
 For the challenge I referenced class materials as well as ChatGPT
