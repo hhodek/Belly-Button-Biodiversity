@@ -7,7 +7,7 @@ The goal of this challenge was to create an interactive web application to explo
 ## Table of Contents
 1. ` index.html `:  main entry point for web application
 2. static / js folder:
--> ` app.js `: this file holds the code for the graphs, layout, as well as other elements in the dahsboard
+-> ` app.js `: this file holds the code for the graphs, layout, as well as other elements in the dashboard
 3. ` samples.json `: this json file holds all of the Belly Button Biodiversity data
 
 ## Dashboard Features
