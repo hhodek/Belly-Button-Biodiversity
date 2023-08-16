@@ -17,4 +17,4 @@ The goal of this challenge was to create an interactive web application to explo
 - Demographic information panel showing details about the selected subject ID.
 
 ## Credits
-For the challenge I referenced class materials as well as ChatGPT
+For this challenge I referenced class materials as well as ChatGPT
